@@ -1,0 +1,17 @@
+{
+  "name": "diwafirstgame",
+  "version": "1.0.0",
+  "description": "This project is an original implementation inspired by the publicly visible structure of the reference website. It does not copy the reference site's source code or protected page copy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^8.3.2"
+  }
+}
